@@ -1,0 +1,22 @@
+html,
+body {
+    height: 100%;
+}
+
+html {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 16px !important;
+    filter: invert(85%) hue-rotate(180deg);
+}
+
+img {
+    filter: invert(100%) hue-rotate(180deg);
+}
+
+#create_link {
+    font-weight: normal !important;
+}
+
+#quickSearchInput {
+    background-color: #ddd !important;
+}
